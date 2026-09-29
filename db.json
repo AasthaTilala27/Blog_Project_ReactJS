@@ -1,0 +1,37 @@
+{
+  "blogs": [
+    {
+      "id": "3",
+      "title": "My React Journey",
+      "image": "https://picsum.photos/seed/react/800/500",
+      "category": "React",
+      "description": "React is a JavaScript library used to create reusable user interface components.",
+      "author": "Aastha"
+    },
+    {
+      "id": "4",
+      "title": "Why Learn Full Stack Development?",
+      "image": "https://picsum.photos/seed/fullstack/800/500",
+      "category": "Full Stack",
+      "description": "Full stack development allows developers to work with both frontend and backend technologies.",
+      "author": "Aastha"
+    },
+    {
+      "id": "5",
+      "title": "Introduction to APIs",
+      "image": "https://picsum.photos/seed/api/800/500",
+      "category": "API",
+      "description": "APIs allow different applications and services to communicate with each other.",
+      "author": "Aastha"
+    },
+    {
+      "id": "6",
+      "title": "Importance of Responsive Design",
+      "image": "https://picsum.photos/seed/responsive/800/500",
+      "category": "Web Design",
+      "description": "Responsive design makes websites work properly on mobile, tablet and desktop screens.",
+      "author": "Aastha"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
